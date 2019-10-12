@@ -1,6 +1,21 @@
-.Baba {
+.baba {
     background-color: green;
-    ><center><center><h1 style="background-color:Orange;">SHRI SAI BABA TEMPLE <br>Ex-servicemen Colony,
-    Coramandal Gate,
-    Visakhapatnam.</h1>
+}
+.baba-title {
+    background-color: orange;
+    width: 100%;
+    display: flex;
+}
+.shraddha {
+    flex: 1;
+    align-self: center;
+    text-align: center;
+}
+.logo {
+    flex: 1;
+}
+.saboori {
+    flex: 1;
+    align-self: center;
+    text-align: center;
 }
